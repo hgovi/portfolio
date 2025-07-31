@@ -24,7 +24,7 @@ const LandingPage = () => {
           className="cursor-pointer transform hover:scale-105 transition-transform duration-300"
         >
           <img 
-            src="/landing_page.png" 
+            src="/portfolio/landing_page.png" 
             alt="Portfolio Logo" 
             className="max-w-[80vw] max-h-[80vh] object-contain"
           />

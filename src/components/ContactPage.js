@@ -37,12 +37,12 @@ const ContactPage = () => {
         <div className="flex items-center justify-between px-4 py-2">
           {/* Logo and Navigation Links on the left */}
           <div className="flex items-center space-x-8">
-            <img 
-              src="/landing_page.png" 
-              alt="Portfolio Logo" 
-              className="h-32 cursor-pointer hover:opacity-80 transition-opacity"
-              onClick={() => navigate('/')}
-            />
+                    <img 
+          src="/portfolio/landing_page.png" 
+          alt="Portfolio Logo" 
+          className="h-32 cursor-pointer hover:opacity-80 transition-opacity"
+          onClick={() => navigate('/')}
+        />
             
             {/* Navigation Links next to logo */}
             <div className="flex items-center space-x-6">
