@@ -15,56 +15,56 @@ const ProfilePage = () => {
         {
           title: "Basketball RAG Model Data Analyst",
           description: "Built a natural-language query system integrating LLMs with structured SQL data for real-time analytical responses",
-          image: "/portfolio/website/basketball_rag_picture.png",
+          image: "/portfolio/basketball_rag_picture.png",
           link: "https://github.com/hgovi/Basketball_RAG"
         },
         {
           title: "Statistical Arbitrage with Pairs Trading",
           description: "Quantitative Trading with two Cointegrated Stocks",
-          image: "/portfolio/website/qunat.jpeg",
-          link: "/portfolio/website/StatArb.pdf"
+          image: "/portfolio/qunat.jpeg",
+          link: "/portfolio/StatArb.pdf"
         },
         {
           title: "Credit Card Fraud Detection",
           description: "Detect Fraud Transactions using Machine Learning",
-          image: "/portfolio/website/ccimg.jpeg",
-          link: "/portfolio/website/CreditCardFraud.html"
+          image: "/portfolio/ccimg.jpeg",
+          link: "/portfolio/CreditCardFraud.html"
         },
         {
           title: "Predicting NBA MVPs using Machine Learning",
           description: "Web scraping project that uses historic NBA data",
-          image: "/portfolio/website/nbaImage.webp",
-          link: "/portfolio/website/WebScraping.html"
+          image: "/portfolio/nbaImage.webp",
+          link: "/portfolio/WebScraping.html"
         },
         {
           title: "Time Series Forecasting",
           description: "Predict Energy Consumption using Time-Series data",
-          image: "/portfolio/website/timeSeries.webp",
-          link: "/portfolio/website/TimeSeriesForecasting.html"
+          image: "/portfolio/timeSeries.webp",
+          link: "/portfolio/TimeSeriesForecasting.html"
         },
         {
           title: "Dashboarding Project",
           description: "Interactive Customer Service Dashboard",
-          image: "/portfolio/website/project2img.jpeg",
+          image: "/portfolio/project2img.jpeg",
           link: "https://public.tableau.com/views/Book1_17259330068070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
         },
         {
           title: "Cancer Prediction Model",
           description: "Logistic Regression model to predict cancer diagnosis",
-          image: "/portfolio/website/cancer-metastasis-cancerwise.jpg",
-          link: "/portfolio/website/Written Report-2.pdf"
+          image: "/portfolio/cancer-metastasis-cancerwise.jpg",
+          link: "/portfolio/Written Report-2.pdf"
         },
         {
           title: "Job Market Data Analysis",
           description: "View the threat of AI across different industries and roles",
-          image: "/portfolio/website/job-market.webp",
-          link: "/portfolio/website/JobMarketInsights.html"
+          image: "/portfolio/job-market.webp",
+          link: "/portfolio/JobMarketInsights.html"
         },
         {
           title: "Stock Price Prediction",
           description: "Predict the Price of the S&P 500 using historic data",
-          image: "/portfolio/website/stocks.avif",
-          link: "/portfolio/website/StockPrediction.html"
+          image: "/portfolio/stocks.avif",
+          link: "/portfolio/StockPrediction.html"
         }
       ]
     },
@@ -74,56 +74,56 @@ const ProfilePage = () => {
         {
           title: "Basketball RAG Model Data Analyst",
           description: "Built a natural-language query system integrating LLMs with structured SQL data for real-time analytical responses",
-          image: "/portfolio/website/basketball_rag_picture.png",
+          image: "/portfolio/basketball_rag_picture.png",
           link: "https://github.com/hgovi/Basketball_RAG"
         },
         {
           title: "Statistical Arbitrage with Pairs Trading",
           description: "Quantitative Trading with two Cointegrated Stocks",
-          image: "/portfolio/website/qunat.jpeg",
-          link: "/portfolio/website/StatArb.pdf"
+          image: "/portfolio/qunat.jpeg",
+          link: "/portfolio/StatArb.pdf"
         },
         {
           title: "Credit Card Fraud Detection",
           description: "Detect Fraud Transactions using Machine Learning",
-          image: "/portfolio/website/ccimg.jpeg",
-          link: "/portfolio/website/CreditCardFraud.html"
+          image: "/portfolio/ccimg.jpeg",
+          link: "/portfolio/CreditCardFraud.html"
         },
         {
           title: "Predicting NBA MVPs using Machine Learning",
           description: "Web scraping project that uses historic NBA data",
-          image: "/portfolio/website/nbaImage.webp",
-          link: "/portfolio/website/WebScraping.html"
+          image: "/portfolio/nbaImage.webp",
+          link: "/portfolio/WebScraping.html"
         },
         {
           title: "Time Series Forecasting",
           description: "Predict Energy Consumption using Time-Series data",
-          image: "/portfolio/website/timeSeries.webp",
-          link: "/portfolio/website/TimeSeriesForecasting.html"
+          image: "/portfolio/timeSeries.webp",
+          link: "/portfolio/TimeSeriesForecasting.html"
         },
         {
           title: "Dashboarding Project",
           description: "Interactive Customer Service Dashboard",
-          image: "/portfolio/website/project2img.jpeg",
+          image: "/portfolio/project2img.jpeg",
           link: "https://public.tableau.com/views/Book1_17259330068070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
         },
         {
           title: "Cancer Prediction Model",
           description: "Logistic Regression model to predict cancer diagnosis",
-          image: "/portfolio/website/cancer-metastasis-cancerwise.jpg",
-          link: "/portfolio/website/Written Report-2.pdf"
+          image: "/portfolio/cancer-metastasis-cancerwise.jpg",
+          link: "/portfolio/Written Report-2.pdf"
         },
         {
           title: "Job Market Data Analysis",
           description: "View the threat of AI across different industries and roles",
-          image: "/portfolio/website/job-market.webp",
-          link: "/portfolio/website/JobMarketInsights.html"
+          image: "/portfolio/job-market.webp",
+          link: "/portfolio/JobMarketInsights.html"
         },
         {
           title: "Stock Price Prediction",
           description: "Predict the Price of the S&P 500 using historic data",
-          image: "/portfolio/website/stocks.avif",
-          link: "/portfolio/website/StockPrediction.html"
+          image: "/portfolio/stocks.avif",
+          link: "/portfolio/StockPrediction.html"
         }
       ]
     },
@@ -133,56 +133,56 @@ const ProfilePage = () => {
         {
           title: "Basketball RAG Model Data Analyst",
           description: "Built a natural-language query system integrating LLMs with structured SQL data for real-time analytical responses",
-          image: "/portfolio/website/basketball_rag_picture.png",
+          image: "/portfolio/basketball_rag_picture.png",
           link: "https://github.com/hgovi/Basketball_RAG"
         },
         {
           title: "Statistical Arbitrage with Pairs Trading",
           description: "Quantitative Trading with two Cointegrated Stocks",
-          image: "/portfolio/website/qunat.jpeg",
-          link: "/portfolio/website/StatArb.pdf"
+          image: "/portfolio/qunat.jpeg",
+          link: "/portfolio/StatArb.pdf"
         },
         {
           title: "Credit Card Fraud Detection",
           description: "Detect Fraud Transactions using Machine Learning",
-          image: "/portfolio/website/ccimg.jpeg",
-          link: "/portfolio/website/CreditCardFraud.html"
+          image: "/portfolio/ccimg.jpeg",
+          link: "/portfolio/CreditCardFraud.html"
         },
         {
           title: "Predicting NBA MVPs using Machine Learning",
           description: "Web scraping project that uses historic NBA data",
-          image: "/portfolio/website/nbaImage.webp",
-          link: "/portfolio/website/WebScraping.html"
+          image: "/portfolio/nbaImage.webp",
+          link: "/portfolio/WebScraping.html"
         },
         {
           title: "Time Series Forecasting",
           description: "Predict Energy Consumption using Time-Series data",
-          image: "/portfolio/website/timeSeries.webp",
-          link: "/portfolio/website/TimeSeriesForecasting.html"
+          image: "/portfolio/timeSeries.webp",
+          link: "/portfolio/TimeSeriesForecasting.html"
         },
         {
           title: "Dashboarding Project",
           description: "Interactive Customer Service Dashboard",
-          image: "/portfolio/website/project2img.jpeg",
+          image: "/portfolio/project2img.jpeg",
           link: "https://public.tableau.com/views/Book1_17259330068070/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
         },
         {
           title: "Cancer Prediction Model",
           description: "Logistic Regression model to predict cancer diagnosis",
-          image: "/portfolio/website/cancer-metastasis-cancerwise.jpg",
-          link: "/portfolio/website/Written Report-2.pdf"
+          image: "/portfolio/cancer-metastasis-cancerwise.jpg",
+          link: "/portfolio/Written Report-2.pdf"
         },
         {
           title: "Job Market Data Analysis",
           description: "View the threat of AI across different industries and roles",
-          image: "/portfolio/website/job-market.webp",
-          link: "/portfolio/website/JobMarketInsights.html"
+          image: "/portfolio/job-market.webp",
+          link: "/portfolio/JobMarketInsights.html"
         },
         {
           title: "Stock Price Prediction",
           description: "Predict the Price of the S&P 500 using historic data",
-          image: "/portfolio/website/stocks.avif",
-          link: "/portfolio/website/StockPrediction.html"
+          image: "/portfolio/stocks.avif",
+          link: "/portfolio/StockPrediction.html"
         }
       ]
     }
